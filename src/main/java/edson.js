@@ -1,5 +1,5 @@
 var myHeading = document.querySelector('h1');
-myHeading.innerHTML = 'Hello Edson!';
+myHeading.innerHTML = 'Hello mega!';
 
 
 var myHeading = document.querySelector('h1');
